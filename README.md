@@ -13,26 +13,26 @@ Clipmor 是一款轻量极简、低资源占用的 Windows 剪贴板增强工具
 
 在 Microsoft Store 中搜索 `Clipmor` 即可安装：
 
-[Clipmor Microsoft Store](https://apps.microsoft.com/detail/Axiner.Clipmor)
+[Clipmor Microsoft Store](https://apps.microsoft.com/detail/9p5qx0dxvlfk)
 
 ### GitHub Releases
 
 打开 [GitHub Releases 发布页](https://github.com/atpuxiner/clipmor/releases)，选择最新版本，根据需求下载对应版本：
 
-- **便携版** `Clipmor-portable-vX.X.X.X.zip`：免安装，解压即用。
-- **安装版** `Clipmor-setup-vX.X.X.X.exe`：一键安装，可选择创建桌面快捷方式。
+- **便携版** `Clipmor-portable-x64-vX.X.X.X.zip`：免安装，解压即用。
+- **安装版** `Clipmor-setup-x64-vX.X.X.X.exe`：一键安装，可选择创建桌面快捷方式。
 
 ## 开始使用
 
 ### 便携版
 
-1. 下载并解压最新的便携包（如 `Clipmor-portable-vX.X.X.X.zip`），得到一个 `clipmor.exe` 文件。
+1. 下载并解压最新的便携包（如 `Clipmor-portable-x64-vX.X.X.X.zip`），得到一个 `clipmor.exe` 文件。
 2. 双击运行即可，无需安装。
 3. 正常复制内容，然后按 `Ctrl+Q` 打开历史窗口。
 
 ### 安装版
 
-1. 下载并运行最新的安装程序（如 `Clipmor-setup-vX.X.X.X.exe`），按提示完成安装。
+1. 下载并运行最新的安装程序（如 `Clipmor-setup-x64-vX.X.X.X.exe`），按提示完成安装。
 2. 从开始菜单或桌面快捷方式启动 Clipmor。
 3. 正常复制内容，然后按 `Ctrl+Q` 打开历史窗口。
 

@@ -12,26 +12,26 @@ All data is stored locally in a SQLite database, fully offline, with no network 
 
 Search `Clipmor` in the Microsoft Store to install:
 
-[Clipmor Microsoft Store](https://apps.microsoft.com/detail/Axiner.Clipmor)
+[Clipmor Microsoft Store](https://apps.microsoft.com/detail/9p5qx0dxvlfk)
 
 ### GitHub Releases
 
 Open the [GitHub Releases page](https://github.com/atpuxiner/clipmor/releases), select the latest version, and download the one that fits your needs:
 
-- **Portable** `Clipmor-portable-vX.X.X.X.zip`: No installation required, just extract and run.
-- **Installer** `Clipmor-setup-vX.X.X.X.exe`: One-click installation with an optional desktop shortcut.
+- **Portable** `Clipmor-portable-x64-vX.X.X.X.zip`: No installation required, just extract and run.
+- **Installer** `Clipmor-setup-x64-vX.X.X.X.exe`: One-click installation with an optional desktop shortcut.
 
 ## Getting Started
 
 ### Portable Version
 
-1. Download and extract the latest portable package (e.g. `Clipmor-portable-vX.X.X.X.zip`) to obtain a file named `clipmor.exe`.
+1. Download and extract the latest portable package (e.g. `Clipmor-portable-x64-vX.X.X.X.zip`) to obtain a file named `clipmor.exe`.
 2. Double-click it to run. No installation is required.
 3. Copy content as usual, then press `Ctrl+Q` to open the history window.
 
 ### Installer Version
 
-1. Download and run the latest installer (e.g. `Clipmor-setup-vX.X.X.X.exe`), then follow the prompts to complete the installation.
+1. Download and run the latest installer (e.g. `Clipmor-setup-x64-vX.X.X.X.exe`), then follow the prompts to complete the installation.
 2. Launch Clipmor from the Start menu or the desktop shortcut.
 3. Copy content as usual, then press `Ctrl+Q` to open the history window.
 
