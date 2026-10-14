@@ -1,37 +1,37 @@
 # Clipmor Usage Guide
 
 Clipmor is a lightweight, low-resource Windows clipboard enhancer.
-Clip history supports saving text and images, creating, deleting, keyword search, and pinning; it stores the raw data copied by the system and does not provide editing. A simple built-in todo list supports creating, editing, deleting, keyword search, and pinning.
+Clip history supports saving text and images, creating, deleting, keyword search, and pinning; it stores the raw data copied by the system and does not provide editing. Quick memos and a simple built-in todo list both support creating, editing, deleting, keyword search, and pinning.
 All data is stored locally in a SQLite database, fully offline, with no network upload and no privacy collection.
 
 [简体中文](README.md) | [English](README.en.md)
 
 ## Download
 
-### Microsoft Store (Recommended)
+### Microsoft Store
 
 Search `Clipmor` in the Microsoft Store to install:
 
-[Clipmor Microsoft Store](https://apps.microsoft.com/detail/9p5qx0dxvlfk)
+[Clipmor Microsoft Store](https://apps.microsoft.com/detail/9P5QX0DXVLFK)
 
-### GitHub Releases
+### GitHub Releases (Recommended)
 
 Open the [GitHub Releases page](https://github.com/atpuxiner/clipmor/releases), select the latest version, and download the one that fits your needs:
 
-- **Portable** `Clipmor-portable-x64-vX.X.X.X.zip`: No installation required, just extract and run.
-- **Installer** `Clipmor-setup-x64-vX.X.X.X.exe`: One-click installation with an optional desktop shortcut.
+- **Portable** `Clipmor-x.x.x.x-portable-x64.zip`: No installation required, just extract and run.
+- **Installer** `Clipmor-x.x.x.x-setup-x64.exe`: One-click installation with an optional desktop shortcut.
 
 ## Getting Started
 
 ### Portable Version
 
-1. Download and extract the latest portable package (e.g. `Clipmor-portable-x64-vX.X.X.X.zip`) to obtain a file named `clipmor.exe`.
+1. Download and extract the latest portable package (e.g. `Clipmor-x.x.x.x-portable-x64.zip`) to obtain a file named `clipmor.exe`.
 2. Double-click it to run. No installation is required.
 3. Copy content as usual, then press `Ctrl+Q` to open the history window.
 
 ### Installer Version
 
-1. Download and run the latest installer (e.g. `Clipmor-setup-x64-vX.X.X.X.exe`), then follow the prompts to complete the installation.
+1. Download and run the latest installer (e.g. `Clipmor-x.x.x.x-setup-x64.exe`), then follow the prompts to complete the installation.
 2. Launch Clipmor from the Start menu or the desktop shortcut.
 3. Copy content as usual, then press `Ctrl+Q` to open the history window.
 
@@ -52,6 +52,7 @@ clipmor.imgs/    # image history
 - Clipboard history: saves text and image records, create, delete, search, pin frequently used content
 - Quick search: keyword search to quickly locate history clips
 - Pin to top: pin high-frequency content to the top for quick access
+- Quick memos: a separate memo list for jotting things down, with copy, search, pin, and one-click conversion from a text clip
 - Todo list: built-in simple todos, create, edit, delete, search, pin
 - Lightweight background: small footprint, silent tray operation, low performance overhead
 - Optional auto-start: disabled by default, enabled manually by the user

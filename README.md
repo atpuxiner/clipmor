@@ -2,37 +2,37 @@
 
 Clipmor 是一款轻量极简、低资源占用的 Windows 剪贴板增强工具。
 
-剪贴历史支持保存文本与图片、新建、删除、关键词搜索、置顶，记录为系统复制原始数据，不提供编辑；内置简洁的待办功能，支持新建、编辑、删除、关键词搜索、置顶显示。
+剪贴历史支持保存文本与图片、新建、删除、关键词搜索、置顶，记录为系统复制原始数据，不提供编辑；独立的备忘速记与简洁的待办清单，均支持新建、编辑、删除、关键词搜索、置顶。
 所有数据全部保存在本地 SQLite 数据库，不上传网络、不收集隐私信息，完全离线可用。
 
 [English](README.en.md) | [简体中文](README.md)
 
 ## 下载
 
-### 微软商店（推荐）
+### 微软商店
 
 在 Microsoft Store 中搜索 `Clipmor` 即可安装：
 
-[Clipmor Microsoft Store](https://apps.microsoft.com/detail/9p5qx0dxvlfk)
+[Clipmor Microsoft Store](https://apps.microsoft.com/detail/9P5QX0DXVLFK)
 
-### GitHub Releases
+### GitHub Releases（推荐）
 
 打开 [GitHub Releases 发布页](https://github.com/atpuxiner/clipmor/releases)，选择最新版本，根据需求下载对应版本：
 
-- **便携版** `Clipmor-portable-x64-vX.X.X.X.zip`：免安装，解压即用。
-- **安装版** `Clipmor-setup-x64-vX.X.X.X.exe`：一键安装，可选择创建桌面快捷方式。
+- **便携版** `Clipmor-x.x.x.x-portable-x64.zip`：免安装，解压即用。
+- **安装版** `Clipmor-x.x.x.x-setup-x64.exe`：一键安装，可选择创建桌面快捷方式。
 
 ## 开始使用
 
 ### 便携版
 
-1. 下载并解压最新的便携包（如 `Clipmor-portable-x64-vX.X.X.X.zip`），得到一个 `clipmor.exe` 文件。
+1. 下载并解压最新的便携包（如 `Clipmor-x.x.x.x-portable-x64.zip`），得到一个 `clipmor.exe` 文件。
 2. 双击运行即可，无需安装。
 3. 正常复制内容，然后按 `Ctrl+Q` 打开历史窗口。
 
 ### 安装版
 
-1. 下载并运行最新的安装程序（如 `Clipmor-setup-x64-vX.X.X.X.exe`），按提示完成安装。
+1. 下载并运行最新的安装程序（如 `Clipmor-x.x.x.x-setup-x64.exe`），按提示完成安装。
 2. 从开始菜单或桌面快捷方式启动 Clipmor。
 3. 正常复制内容，然后按 `Ctrl+Q` 打开历史窗口。
 
@@ -53,6 +53,7 @@ clipmor.imgs/    # 图片历史记录
 - 剪贴历史：保存文本、图片记录，新建、删除、搜索、置顶常用内容
 - 快速检索：关键词搜索，快速定位历史剪贴记录
 - 置顶显示：高频内容固定顶部，随时取用
+- 备忘速记：独立备忘列表，快速记录临时内容，支持复制、搜索、置顶，剪贴文本可一键转备忘
 - 待办清单：内置简单待办，可新建、编辑、删除、搜索、置顶
 - 轻量后台：体积小巧，托盘静默运行，性能开销低
 - 可控自启：开机自启默认关闭，由用户手动开启
