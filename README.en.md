@@ -1,8 +1,8 @@
 # Clipmor Usage Guide
 
-Clipmor is a lightweight, low-resource Windows clipboard enhancer.
-Clip history supports saving text and images, creating, deleting, keyword search, and pinning; it stores the raw data copied by the system and does not provide editing. Quick memos and a simple built-in todo list both support creating, editing, deleting, keyword search, and pinning.
-All data is stored locally in a SQLite database, fully offline, with no network upload and no privacy collection.
+Clipmor is a lightweight, minimalist, low-resource Windows clipboard enhancer.
+
+Clipboard enhancement, with a separate quick memo list and a clean, simple todo list. All data is stored locally in a SQLite database — no network upload, no privacy collection, fully offline.
 
 [简体中文](README.md) | [English](README.en.md)
 
@@ -49,11 +49,12 @@ clipmor.imgs/    # image history
 
 ## Core Features
 
-- Clipboard history: saves text and image records, create, delete, search, pin frequently used content
+- Clipboard history: system clipboard records with pin, create, delete, search, and more
+- Quick memos: a separate memo list with pin, create, delete, search, and more
+- Todo list: built-in simple todos with pin, create, delete, search, and more
 - Quick search: keyword search to quickly locate history clips
 - Pin to top: pin high-frequency content to the top for quick access
-- Quick memos: a separate memo list for jotting things down, with copy, search, pin, and one-click conversion from a text clip
-- Todo list: built-in simple todos, create, edit, delete, search, pin
+- Local storage: long-term retention, privacy-safe
 - Lightweight background: small footprint, silent tray operation, low performance overhead
 - Optional auto-start: disabled by default, enabled manually by the user
 
